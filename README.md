@@ -1,3 +1,7 @@
+# Publicacion Original (Ingles)-(german) #
+https://medium.com/hackernoon/converting-shaders-from-shadertoy-to-threejs-fe17480ed5c6
+
+# Resultado final  #
 https://kurganpsp.github.io/shadertoy_threejs/
 
 
