@@ -1,11 +1,7 @@
 https://kurganpsp.github.io/shadertoy_threejs/
 
 
-
-# Por [Markus Neuy](https://medium.com/@markus.neuy) y [Dirk Krause](https://medium.com/@dirkk) #
-
-
-
+# Por [Markus Neuy](https://medium.com/@markus.neuy) y [Dirk Krause](https://medium.com/@dirkk) #</summary>
 Cómo transferir Shaders de Shadertoy a ThreeJS
 
 
